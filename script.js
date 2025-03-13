@@ -1,6 +1,6 @@
 function firstNonRepeatedChar(str) {
  // Write your code here
- const charCount = new map();
+ const charCount = new Map();
  // Iterate through the string to count each character's frequency
  for(const char of str)
   {
