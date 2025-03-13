@@ -10,7 +10,8 @@ function firstNonRepeatedChar(str) {
   for (const char of str) {
    if(char === 1)
     {
-     return char;
+		
+     return char
    }
   }
 
